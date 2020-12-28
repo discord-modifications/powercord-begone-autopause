@@ -12,4 +12,4 @@ Gets rid of the annoying Spotify auto-pause completely.
 
 # Support
 
--  eternal#0404
+-  eternal#1000
