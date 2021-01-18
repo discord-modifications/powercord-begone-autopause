@@ -9,7 +9,3 @@ Gets rid of the annoying Spotify auto-pause completely.
 # Installation
 
 -  `git clone https://github.com/slow/begone-autopause`
-
-# Support
-
--  eternal#1000
