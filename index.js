@@ -14,4 +14,4 @@ module.exports = class FuckAutoPause extends Plugin {
       Modules.__proto__.wasAutoPaused = Modules._wasAutoPaused;
       spotify.pause = spotify._pause;
    }
-}
+};
